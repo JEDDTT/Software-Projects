@@ -11,7 +11,7 @@ import vut.data.Student;
 
 /**
  *
- * @author bongwala ncd
+ * @author NGONGO 214046087
  */
 public class MainMenuScreen extends JFrame
 {

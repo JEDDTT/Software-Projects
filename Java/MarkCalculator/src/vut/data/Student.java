@@ -7,7 +7,7 @@ package vut.data;
 
 /**
  *
- * @author Bongwala Ncd 214205541 ,Mavula LG 215213696
+ * @author NGONGO 214046087
  */
 public class Student
 {

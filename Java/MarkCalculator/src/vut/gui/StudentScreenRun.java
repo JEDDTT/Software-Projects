@@ -11,7 +11,7 @@ import vut.data.Student;
 
 /**
  *
- * @author Bongwala Ncd 214205541 ,Mavula LG 215213696
+ * @author Ngongo 214046087
  */
 public class StudentScreenRun {
 

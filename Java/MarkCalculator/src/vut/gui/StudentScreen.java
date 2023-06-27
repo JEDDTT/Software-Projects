@@ -15,7 +15,7 @@ import vut.data.Student;
  * This class creates a screen, GUI to help get inputs and manipulate data The
  * class extends JFrame class to help create objects
  *
- * @author Bongwala Ncd 214205541 ,Mavula LG 215213696
+ * @author Ngongo 214046087
  */
 public class StudentScreen extends JFrame {
 
