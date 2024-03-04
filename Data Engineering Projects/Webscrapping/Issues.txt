@@ -1,0 +1,2 @@
+if bs4 has module error, make sure it is installed with pip install bs4, change the interpreter
+if requests has module error, install it by using pip install requests
